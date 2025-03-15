@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egoroshka999!</h1>
-<h3 align="center">Hello, my name is Egor, I am 20 years old and I am a 1st year student at ITMO University</h3>
+<h3 align="center">Hello, my name is Egor, I am 20 years old and I am a 3rd year student at ITMO University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egoroshka999&label=Profile%20views&color=0e75b6&style=flat" alt="egoroshka999" /> </p>
 
